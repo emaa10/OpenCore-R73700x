@@ -9,6 +9,6 @@ Not working:
 Specs:
 - RX 6600 XT
 - Ryzen 7 3700x
-- 500GB Samsung 980 Evo
+- 500GB Samsung 980 SSD
 - 32GB G.Skill Aegis RAM
 - ASRock X570 Phantom Gaming 4
