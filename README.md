@@ -5,6 +5,7 @@ Current version: 0.8.8
 
 Not working:
 - Ethernet
+- Constant SSD speed (going up and down randomly)
 
 Specs:
 - RX 6600 XT
