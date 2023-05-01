@@ -15,5 +15,5 @@ Not working:
 - Ethernet
 
 Fixed bugs
-- ~~Constant SSD speed (going up and down randomly)~~~
-    -> fixed by setting the `SetApfsTrimTimeout` (trim timeout on boot) to `4294967295` (maximum value)
+- <strike>Constant SSD speed (going up and down randomly)</strike>
+-> fixed by setting the `SetApfsTrimTimeout` (trim timeout on boot) to `4294967295` (maximum value)
