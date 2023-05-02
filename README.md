@@ -1,4 +1,4 @@
-# OpenCore-R73700x
+# OpenCore-R73700x macOS Ventura
 [r/Hackintosh Post here](https://www.reddit.com/r/hackintosh/comments/wupfex/success_windows_macos_on_ryzen_7_3700x_rx_6600_xt/?utm_source=share&utm_medium=web2x&context=3)
 
 
