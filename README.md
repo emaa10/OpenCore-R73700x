@@ -38,9 +38,10 @@ Current OC version: 0.8.8
 
 
 ### Not working
-Ethernet (AppleIGB kext currently not working, [Link to my issue](https://github.com/donatengit/AppleIGB/issues/11))
-Fan speed (AMD Power Gadget can view it but other apps in macos like the macs fan control doesn’t)
-Apple Magic Mouse scrolling under windows, because if I install the drivers of my bluetooth card I’d have to reconnect it everytime
+- Ethernet (AppleIGB kext currently not working, [Link to my issue](https://github.com/donatengit/AppleIGB/issues/11))
+- Fan speed (AMD Power Gadget can view it but other apps in macos like the macs fan control doesn’t)
+- Apple Magic Mouse scrolling under windows, because if I install the drivers of my bluetooth card I’d have to reconnect it everytime
+- Sidecar because unsupported iGPU on AMD (or no iGPU found)
 
 ### Fixed bugs
 - <strike>Constant SSD speed (going up and down randomly)</strike>
