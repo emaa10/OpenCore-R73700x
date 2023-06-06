@@ -23,6 +23,14 @@ Current OC version: 0.8.8
 ### Benchmarks
 - [Geekbench 5](https://browser.geekbench.com/v5/cpu/21144550)
 
+### Installation
+1. Download the latest release
+2. Download propertree and edit EFI/OC/config.plist
+    1. Change PlatformInfo -> MLB, ROM, SystemUUID and SystemSerialNumber using [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
+3. Create the macOS Installer USB-Stick using [this](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/) guide. You don't need to create the EFI, that work have I done already. 
+4. Update the BIOS settings according to [this](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html#intel-bios-settings) guide. 
+5. Insert USB and boot! When entering the macOS Recovery, click Disk Utility, format your Disk as APFS/GUID and then install macOS.
+
 ### Working
 - iServices
 - Davinci Resolve
