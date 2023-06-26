@@ -3,7 +3,7 @@
 
 
 Opencore config for my PC.
-Current OC version: 0.8.8
+Current OC version: 0.9.3
 
 ### Hardware
 - Case: Sharkoon DG7000-G RGB
