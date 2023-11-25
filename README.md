@@ -3,7 +3,7 @@
 
 
 Opencore config for my PC.
-Current OC version: 0.9.5
+Current OC version: 0.9.6
 Current macOS Version: 13.6
 
 ### Hardware
