@@ -3,8 +3,8 @@
 
 
 Opencore config for my PC.
-Current OC version: 0.9.6
-Current macOS Version: 13.6
+- Current OC version: 0.9.7
+- Current macOS Version: 13.6.3
 
 ### Hardware
 - Case: Sharkoon DG7000-G RGB
